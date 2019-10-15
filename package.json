@@ -24,9 +24,13 @@
       "name": "Steven Scaffidi",
       "url": "https://github.com/sscaff1"
     },
-	{
-	  "name": "Bob",
-	  "url": "https://github.com/bob"
-	}
+    {
+      "name": "Bob",
+      "url": "https://github.com/bob"
+    },
+    {
+      "name": "Michael Jones",
+      "url": "https://github.com/mkaljns"
+    }
   ]
 }
